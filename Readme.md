@@ -4,7 +4,7 @@ ST0257 — Sistemas Operativos
 Universidad EAFIT · 2026-2
 
 ## Integrantes
-- Camilo [apellido]
+- Camilo Moreno
 
 ## Descripción
 Simulación de un sistema paralelo de análisis de exámenes médicos, implementado en C sobre Linux (WSL).
